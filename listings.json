@@ -39,11 +39,11 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/gallery/index.html",
     "items": []
   },
   {
-    "listing": "/gallery/index.html",
+    "listing": "/news/index.html",
     "items": []
   }
 ]
